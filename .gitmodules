@@ -1,0 +1,6 @@
+[submodule "TAE-erp-backend"]
+	path = TAE-erp-backend
+	url = https://github.com/samhk90/TAE-erp-backend.git
+[submodule "TAE-erp-frontend"]
+	path = TAE-erp-frontend
+	url = https://github.com/samhk90/TAE-erp-frontend.git
